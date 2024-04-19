@@ -1,0 +1,35 @@
+/* resources/css/style.css */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff; /* white background */
+    color: #000000; /* black text */
+    margin: 0;
+}
+
+header, footer {
+    background-color: #001f3f; /* navy indigo */
+    color: #ffffff; /* white text */
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #02182e; /* slightly different shade of blue for h1 */
+}
+
+a {
+    color: #0074cc; /* navy indigo link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Center the content */
+main {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
