@@ -1,4 +1,6 @@
-<p style="text-align: center;">Social Connect Web Platform </p>
+<div style="text-align: center;">
+    <h1>Social Connect Web Platform</h1>
+</div>
 
 Project Overview:
 
