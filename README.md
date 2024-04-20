@@ -13,20 +13,29 @@ platform that simplifies the process of discovering and connecting with fellow s
 Key Features:
 
 1. User Registration and Profile Creation:
+   
  Secure user registration process.
  User profiles with customizable details, including interests, academic background, and hobbies.
+
 2. Social Media Integration:
+
  Ability to import user data and preferences from connected social media accounts (e.g., 
 Facebook, Instagram).
+
 3. Interactive Features:
+
  Like and Comment: Users can engage with posts by liking and commenting, fostering interaction 
 within the community.
  Post Pictures: Users can share images to enhance content sharing.
-4. Login Information and Security:
+
+4.. Login Information and Security:
+
  Login via Social Media: Users can log in using their social media credentials, streamlining the 
 onboarding process.
  Enhanced Security: Implementation of secure login mechanisms to protect user data.
+
 5. Search Functionality:
+
  Advanced Search: Allow users to search for peers based on various criteria, such as academic 
 interests, hobbies, location, etc.
  Filtering Options: Provide options to refine search results and discover like-minded individuals.
